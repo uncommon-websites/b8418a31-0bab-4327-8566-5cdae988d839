@@ -6,16 +6,23 @@
 	import CallToAction from "$lib/components/layout/CallToAction.svelte";
 	import AboutTeaser from "$lib/components/layout/AboutTeaser.svelte";
 	import LogoScroller from "$lib/components/layout/LogoScroller.svelte";
-	import Hero from "$lib/components/layout/hero-sections/Hero.svelte";
+	import CenteredTextOnlyHero from "$lib/components/layout/hero-sections/CenteredTextOnlyHero.svelte";
 </script>
 
-<Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+<CenteredTextOnlyHero
+	title="Fair memecoin launches start here"
+	subtitle="Launch your memecoin with zero pre-bonding fees. Build organic communities through equitable distribution that maximizes token survival and aligns creator and community incentives from day one."
+	imageSrc="/generated/image-a-modern-softly-lit-interior-space-with-.webp"
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by crypto builders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/base.org/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/uniswap.org/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/opensea.io/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/metamask.io/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
