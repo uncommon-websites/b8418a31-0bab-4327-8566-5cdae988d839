@@ -1,7 +1,7 @@
 export const CONFIG = {
-	companyName: "Company",
-	description: "Description",
+	companyName: "Openmint",
+	description: "Fair memecoin launches with zero pre-bonding fees. Launch tokens with equitable distribution and organic growth potential.",
 	image: "/og.png",
-	url: "https://example.com",
+	url: "https://openmint.com",
 	fontFamily: "Inter Variable"
 };
