@@ -14,5 +14,21 @@
   {
     "prompt": "Professional headshot of a Middle Eastern woman in a contemporary workspace with natural lighting, simple background elements such as indoor plants or minimalist decor, neutral colors, wearing business casual, realistic and professional yet approachable mood.",
     "filename": "/generated/image-professional-headshot-of-a-middle-easter.webp"
+  },
+  {
+    "prompt": "Documentary-style photograph of a young professional woman smiling with calm confidence in a bright, naturally lit Scandinavian-inspired office. The environment features large windows, white walls, and light wood accents, with soft mint green and sky blue details subtly present in plants or accessories. The composition is medium-wide, with the subject off-center and environmental depth visible—foreground includes a clean desk with a notebook and coffee cup, background shows airy open space. Lighting is cool-natural (around 6000K), with soft, diffused highlights and desaturated neutral grays dominating the palette. The mood is focused optimism with a relaxed, authentic expression. No screens, text, or tech elements present. Generous negative space and architectural lines create a sense of openness and trust.",
+    "filename": "/generated/image-documentary-style-photograph-of-a-young-.webp"
+  },
+  {
+    "prompt": "Documentary-style photograph of a diverse team of three people collaborating around a minimalist table in a bright, daylit co-working space with Scandinavian design. Large windows fill the room with soft, cool natural light (about 6000K), while light wood, white surfaces, and subtle mint green accents set a calm, grounded tone. The group is engaged in discussion, using notebooks and pens, with relaxed body language and authentic interaction. The composition includes generous negative space and layered architectural depth—foreground may feature a coffee cup or plant, background reveals more of the open, inviting environment. Desaturated colors with neutral grays dominate; mood is collaborative, focused optimism. No tech, screens, or text present. Subjects are off-center, expressions are natural and candid, embodying fairness and transparency.",
+    "filename": "/generated/image-documentary-style-photograph-of-a-divers.webp"
+  },
+  {
+    "prompt": "Documentary-style photograph of a single person working thoughtfully on a laptop in a minimalist, Scandinavian-inspired café. The space is filled with abundant natural light from large windows, with cool, diffused highlights (6000K). The environment features clean lines, white walls, light wood, and subtle botanical elements—mint green plant or sky blue cup. The subject is seated at a simple table with a notebook and coffee cup, focused and calm, with soft, genuine expression. Composition shows environmental context with generous negative space and architectural details, off-center framing, and a desaturated color palette dominated by neutral grays. The atmosphere is quiet, productive, and trustworthy—no tech, screens, or text visible, just an inviting, honest space for deep work.",
+    "filename": "/generated/image-documentary-style-photograph-of-a-single.webp"
+  },
+  {
+    "prompt": "Person working on laptop in minimalist cafe, focused and productive mood",
+    "filename": "/generated/image-person-working-on-laptop-in-minimalist-c.webp"
   }
 ]

@@ -20,7 +20,7 @@
 <CenteredTextOnlyHero
 	title="Fair memecoin launches start here"
 	subtitle="Launch your memecoin with zero pre-bonding fees. Build organic communities through equitable distribution that maximizes token survival and aligns creator and community incentives from day one."
-	imageSrc="/generated/image-a-modern-softly-lit-interior-space-with-.webp"
+	imageSrc="/generated/image-documentary-style-photograph-of-a-young-.webp"
 />
 <LogoScroller
 	label="Trusted by crypto builders"
@@ -108,5 +108,22 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction
+	title="Launch your coin. On your terms."
+	subtitle="Skip the fees, skip the friction"
+	description="Openmint gives memecoin creators a clean path to launch—no pre-bonding costs, no dev tax, no gatekeeping. Just real momentum built with your community, not against it."
+	imageSrc="/generated/image-confident-young-entrepreneur-smiling-war.webp"
+	callsToAction={[
+		{
+			href: "/get-started",
+			label: "Launch now",
+			variant: "primary"
+		},
+		{
+			href: "/contact",
+			label: "Grow your community",
+			variant: "secondary"
+		}
+	]}
+/>
