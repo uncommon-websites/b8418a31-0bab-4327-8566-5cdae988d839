@@ -113,7 +113,7 @@
 	title="Launch your coin. On your terms."
 	subtitle="Skip the fees, skip the friction"
 	description="Openmint gives memecoin creators a clean path to launch—no pre-bonding costs, no dev tax, no gatekeeping. Just real momentum built with your community, not against it."
-	imageSrc="/generated/image-confident-young-entrepreneur-smiling-war.webp"
+	imageSrc="/generated/image-person-working-on-laptop-in-minimalist-c.webp"
 	callsToAction={[
 		{
 			href: "/get-started",
