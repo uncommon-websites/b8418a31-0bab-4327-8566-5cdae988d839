@@ -9,9 +9,10 @@
       <div class="flex items-center gap-8">
         <a href="/" class="flex items-center gap-2">
           <!-- Logo Placeholder -->
-          <div class="w-8 h-8 bg-black rounded-lg flex items-center justify-center text-white font-bold text-xs">
-            A
+          <div class="w-8 h-8 bg-primary-600 rounded-lg flex items-center justify-center text-white font-bold text-lg">
+            S
           </div>
+          <span class="font-bold text-xl tracking-tight">Seren</span>
         </a>
         <div class="hidden md:flex items-center gap-6">
           <NavLink label="Features" />
@@ -24,7 +25,7 @@
         <NavLink label="Login" />
         <a
           href="#"
-          class="bg-[#0099ff] text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-blue-600 transition-colors"
+          class="bg-primary-600 text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-primary-700 transition-colors"
         >
           Get started
         </a>

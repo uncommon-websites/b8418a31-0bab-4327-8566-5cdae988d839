@@ -46,7 +46,7 @@
         <a href="#" class="hover:text-gray-600">Privacy Policy</a>
         <a href="#" class="hover:text-gray-600">Terms of use</a>
         <a href="#" class="hover:text-gray-600">Imprint</a>
-        <span>© Amie 2025</span>
+        <span>© Seren 2025</span>
       </div>
     </div>
   </div>

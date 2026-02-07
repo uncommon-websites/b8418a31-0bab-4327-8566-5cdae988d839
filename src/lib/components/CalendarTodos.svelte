@@ -84,7 +84,7 @@
          <div class="w-6 h-6 bg-gray-300 rounded-full"></div>
          <div class="text-xs font-bold">Oz, Founder</div>
        </div>
-       <p class="text-xs text-gray-600">It doesn't have to suck to be productive, Amie reminds you of that</p>
+       <p class="text-xs text-gray-600">It doesn't have to suck to be productive, Seren reminds you of that</p>
        <div class="absolute top-4 right-4 w-4 h-4 bg-black rounded"></div>
     </div>
     

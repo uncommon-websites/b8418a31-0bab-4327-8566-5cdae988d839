@@ -2,10 +2,10 @@
   let openIndex: number | null = null;
   
   const faqs = [
-    "Can I use Amie at my company?",
+    "Can I use Seren at my company?",
     "Where do I connect more accounts?",
-    "How does Amie protect my privacy?",
-    "When can I use Amie on my device?",
+    "How does Seren protect my privacy?",
+    "When can I use Seren on my device?",
     "Where can I send a feature request or report a bug?",
     "Which video call providers do you support?"
   ];
@@ -19,7 +19,7 @@
   <div class="max-w-3xl mx-auto px-4">
     <h2 class="text-4xl font-bold text-center mb-4">FAQs</h2>
     <p class="text-center text-gray-500 mb-12 text-sm">
-      If you can't find the answer to your question below, email us at <span class="text-black font-medium">care@amie.so</span>
+      If you can't find the answer to your question below, email us at <span class="text-black font-medium">hello@seren.ai</span>
     </p>
     
     <div class="space-y-4">

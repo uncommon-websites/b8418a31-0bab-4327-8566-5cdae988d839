@@ -4,32 +4,32 @@
 
 <section class="py-24 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
   <div class="mb-4">
-    <span class="text-purple-500 font-medium">Shareable Pages</span>
+    <span class="text-primary-600 font-medium">Execution Contexts</span>
   </div>
   
-  <h2 class="text-4xl font-bold mb-6">Shared with colleagues and customers</h2>
+  <h2 class="text-4xl font-bold mb-6">Unified context for every project</h2>
   
   <p class="text-gray-600 max-w-3xl mb-8">
-    Recording all your meetings is a great start. And most tools stop there. The context that many notes create over time is a goldmine.
+    Seren automatically organizes your fragmented data into unified execution contexts. Whether it's a specific project, a customer account, or a team initiative, Seren weaves all relevant information into a single stream.
   </p>
   
   <p class="text-gray-600 max-w-3xl mb-12">
-    When you ask the AI chat questions, we pull in all the context from the pages. Wherever you are, you can always ask questions about any meeting.
+    When you ask Seren a question, it doesn't just search; it understands the kinetic relationships between your tools. It knows that a Slack thread from Tuesday is related to a GitHub PR from Wednesday and a Notion doc from last month.
   </p>
   
-  <div class="border-l-4 border-purple-500 pl-6 py-2 mb-16">
+  <div class="border-l-4 border-primary-500 pl-6 py-2 mb-16">
     <p class="text-lg font-medium text-gray-900 italic mb-2">
-      Wow, auto-generated pages are the kind of thing that you don't even know you need until you see it. It's like an AI-native CRM.
+      Seren has finally solved the "where is that info?" problem. It's like having a perfectly organized brain for our entire company.
     </p>
-    <div class="text-sm text-gray-500">Victor Fleha • Founder, Fundmore</div>
+    <div class="text-sm text-gray-500">Marcus Thorne • Lead Engineer @ Railway</div>
   </div>
   
   <!-- Interface Mockup -->
   <div class="bg-gray-200 rounded-t-2xl p-1 pb-0 overflow-hidden">
-    <div class="bg-gray-400/20 p-2 flex gap-4 text-xs text-white font-medium justify-center">
-      <div class="flex items-center gap-1">Share with anyone</div>
-      <div class="flex items-center gap-1">Share like a document</div>
-      <div class="flex items-center gap-1">Ask in context</div>
+    <div class="bg-primary-900/20 p-2 flex gap-4 text-xs text-primary-900 font-medium justify-center">
+      <div class="flex items-center gap-1">Unified Execution</div>
+      <div class="flex items-center gap-1">Kinetic Weaving</div>
+      <div class="flex items-center gap-1">Real-time Orchestration</div>
     </div>
     
     <div class="bg-white rounded-t-xl mt-2 p-8 h-[500px] flex shadow-2xl relative">
